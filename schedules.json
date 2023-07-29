@@ -1,0 +1,52 @@
+{
+  "schedules" : [
+    {
+      "id": 1,
+      "paciente": "Alyson Rodrigo Gustavo",
+      "telefone": "+5583999678966",
+      "local": "Hospital Nossa",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa",
+      "bairro": "Torre",
+      "logradouro": "Av Jardim Botânico",
+      "numero": "300",
+      "data": "24 de abril de 2023",
+      "horario": "08 horas e 30 minutos",
+      "tipo_procedimento": "cirurgico",
+      "procedimento": "Vasectomia",
+      "status": "PENDENTE"
+    },
+    {
+      "id": 2,
+      "paciente": "Alan Pinheiro Brito",
+      "telefone": "+5596981178286",
+      "local": "Hospital São Camilo",
+      "estado": "Amapá",
+      "cidade": "Macapá",
+      "bairro": "Centro",
+      "logradouro": "Avenida Almirante Barroso",
+      "numero": "189",
+      "data": "28 de julho de 2023",
+      "horario": "20 horas",
+      "tipo_procedimento": "Exame",
+      "procedimento": "Hemograma",
+      "status": "PENDENTE"
+    },
+    {
+      "id":  3,
+      "paciente": "Vanessa Furtunato",
+      "telefone": "+5583996403963",
+      "local": "Prontogastro",
+      "estado": "Paraíba",
+      "cidade": "João Pessoa",
+      "bairro": "Bairro dos estados",
+      "logradouro": "Avenida Epitácio Pessoa",
+      "numero": "199",
+      "data": "29 de julho de 2023",
+      "horario": "20 horas",
+      "tipo_procedimento": "Exame",
+      "Endoscopia": "Hemograma",
+      "status": "PENDENTE"
+    }
+  ]
+}
